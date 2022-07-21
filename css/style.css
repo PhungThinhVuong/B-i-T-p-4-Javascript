@@ -106,11 +106,3 @@ body {
     color: #31344b;
     box-shadow: -3px -3px 7px #fff, 3px 3px 5px #ceced1
 }
-
-.callout-info {
-    border-left-color: #5bc0de
-}
-
-.callout-warning {
-    border-left-color: rgba(255,193,7,0.5);
-}
